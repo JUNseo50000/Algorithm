@@ -86,7 +86,7 @@ class Solution:
 
         # slicing
         # IDEA : 문자열을 조작할 때는 슬라이싱 유념하기
-        return s == s[::-기]
+        return s == s[::-1]
 
 
 
